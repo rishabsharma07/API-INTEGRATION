@@ -23,4 +23,4 @@ Overall, the app showcases a real-world use of API integration, enabling seamles
 
 #OUTPUT
 
-<img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/efa44df3-fcf1-44d9-bc94-4c84e4068a25" />
+<img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/f27aeb28-20e6-413e-a1c9-42ff6c9c7657" />
